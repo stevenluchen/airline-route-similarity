@@ -1,0 +1,10 @@
+data/
+*.parquet
+*.npy
+*.npz
+*.pkl
+__pycache__/
+
+.DS_Store
+
+temp/*

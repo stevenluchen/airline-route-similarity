@@ -1,0 +1,16 @@
+numpy
+pandas
+os
+tarfile
+urllib
+gzip
+shutil
+re
+scikit-learn
+pickle
+heapq
+json
+fastdtw
+scipy
+collections
+pprint
