@@ -41,20 +41,20 @@ For 10 unique, significant U.S. trunk routes, we compute an aggregate vector, wh
 
 ## Results & Limitations
 
-For a more detailed summary of methodology, findings, and interpretatino, see report.pdf
+For a more detailed summary of methodology, findings, and interpretation, see report.pdf
 
-| U.S. Route | Top Analog(s)                                       |
-|------------|-----------------------------------------------------|
-| SFO-LAX    | Bahrain-Riyadh, Ottawa-Toronto                      |
-| DEN-ORD    | Kaliningrad-Moscow, London-Berlin, Vienna-Kyiv      |
-| DFW-ATL    | Madrid-Barcelona                                    |
-| DCA-BOS    | Amsterdam-Billund, Melbourne-Canberra               |
-| ORD-LGA    | Amsterdam-Warsaw, Prague-Kyiv, Edinburgh-Copenhagen |
-| LAX-JFK    | San Francisco-Toronto                               |
-| IAH-ORD    | Toulouse-Brussels, Hobart-Sydney, Amsterdam-Ålesund |
-| SFO-SEA    | Tel Aviv-Larnaca                                    |
-| ATL-MCO    | Kathmandu-Kolkata, Hamburg-Munich, Zürich-Florence  |
-| LAX-ATL    | Amsterdam-Moscow, Paris-Kyiv                        |
+| U.S. Route | Top Analog(s)                                       | Notes                                                                |
+|------------|-----------------------------------------------------|----------------------------------------------------------------------|
+| SFO-LAX    | Bahrain-Riyadh, Ottawa-Toronto                      | Short, high-frequency corridors connecting nearby economic centers   |
+| DEN-ORD    | Kaliningrad-Moscow, London-Berlin, Vienna-Kyiv      | Medium-haul trunk routes connecting key regional hubs                |
+| DFW-ATL    | Madrid-Barcelona                                    | Classic domestic shuttle between two dominant national hubs          |
+| DCA-BOS    | Amsterdam-Billund, Melbourne-Canberra               | Short-haul flights with balanced climb, cruise, and descent          |
+| ORD-LGA    | Amsterdam-Warsaw, Prague-Kyiv, Edinburgh-Copenhagen | Dense intra-European trunk routes with complex ATC routing           |
+| LAX-JFK    | San Francisco-Toronto                               | Long-haul eastbound routes with steady cruise and gradual descent    |
+| IAH-ORD    | Toulouse-Brussels, Hobart-Sydney, Amsterdam-Ålesund | Lower-visibility pairings with consistent medium-haul structure      |
+| SFO-SEA    | Tel Aviv-Larnaca                                    | Weak match; structurally short-haul but behaviorally inconsistent    |
+| ATL-MCO    | Kathmandu-Kolkata, Hamburg-Munich, Zürich-Florence  | Terrain-constrained regional flights with sharp altitude transitions |
+| LAX-ATL    | Amsterdam-Moscow, Paris-Kyiv                        | Long-haul transcontinental analogs with deep cruise phase            |
 
 * All comparisons are based on **shape and behavior**, not geography or scheduled times.
 * DTW captures **trajectory similarity**, which doesn't always align with traditional airline route maps.
