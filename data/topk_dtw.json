@@ -1,0 +1,222 @@
+{
+  "sfo_lax": [
+    {
+      "callsign": "GFA161",
+      "dtw_score": 345.3977738867391
+    },
+    {
+      "callsign": "VLG132P",
+      "dtw_score": 343.2276848738775
+    },
+    {
+      "callsign": "GFA163",
+      "dtw_score": 341.6323079391287
+    },
+    {
+      "callsign": "SVA1131",
+      "dtw_score": 340.37469588408214
+    },
+    {
+      "callsign": "ACA469",
+      "dtw_score": 325.6372447705339
+    }
+  ],
+  "den_ord": [
+    {
+      "callsign": "AFL1294",
+      "dtw_score": 290.9932870761838
+    },
+    {
+      "callsign": "BAW982G",
+      "dtw_score": 290.44746139362707
+    },
+    {
+      "callsign": "WZZ451",
+      "dtw_score": 290.37214902236065
+    },
+    {
+      "callsign": "BAW984G",
+      "dtw_score": 289.44179120877646
+    },
+    {
+      "callsign": "AFL1009",
+      "dtw_score": 244.80934836557878
+    }
+  ],
+  "lax_jfk": [
+    {
+      "callsign": "IBE1546",
+      "dtw_score": 294.45237428489594
+    },
+    {
+      "callsign": "IBE1730",
+      "dtw_score": 293.5601154548466
+    },
+    {
+      "callsign": "IBE2100",
+      "dtw_score": 291.3438691711511
+    },
+    {
+      "callsign": "AEA7707",
+      "dtw_score": 286.46547117251805
+    },
+    {
+      "callsign": "VLG6598",
+      "dtw_score": 283.8473931152433
+    }
+  ],
+  "atl_dfw": [
+    {
+      "callsign": "DLH178",
+      "dtw_score": 416.3362947053616
+    },
+    {
+      "callsign": "ANZ602",
+      "dtw_score": 416.3209025141182
+    },
+    {
+      "callsign": "QFA816",
+      "dtw_score": 408.3223258080051
+    },
+    {
+      "callsign": "KLM33N",
+      "dtw_score": 405.46129086416215
+    },
+    {
+      "callsign": "THY86E",
+      "dtw_score": 386.2809990846391
+    }
+  ],
+  "bos_dca": [
+    {
+      "callsign": "EZY6983",
+      "dtw_score": 195.14029274972577
+    },
+    {
+      "callsign": "KLM53W",
+      "dtw_score": 191.85037248280634
+    },
+    {
+      "callsign": "AUI808",
+      "dtw_score": 174.0134505211381
+    },
+    {
+      "callsign": "KLM85R",
+      "dtw_score": 172.23414972429688
+    },
+    {
+      "callsign": "LOT268",
+      "dtw_score": 161.77580348347718
+    }
+  ],
+  "jfk_ord": [
+    {
+      "callsign": "ACA792",
+      "dtw_score": 496.9968100430404
+    },
+    {
+      "callsign": "ACA738",
+      "dtw_score": 489.08881260837563
+    },
+    {
+      "callsign": "ACA788",
+      "dtw_score": 475.5409569994183
+    },
+    {
+      "callsign": "ACA786",
+      "dtw_score": 430.5692069486196
+    },
+    {
+      "callsign": "ACA758",
+      "dtw_score": 351.30552859541547
+    }
+  ],
+  "iah_ord": [
+    {
+      "callsign": "BEL87E",
+      "dtw_score": 274.55732951868094
+    },
+    {
+      "callsign": "KLM41H",
+      "dtw_score": 271.6718624390555
+    },
+    {
+      "callsign": "JST724",
+      "dtw_score": 263.3665585635837
+    },
+    {
+      "callsign": "BEL42B",
+      "dtw_score": 258.1977440222807
+    },
+    {
+      "callsign": "KLM1308",
+      "dtw_score": 224.76637154017124
+    }
+  ],
+  "sfo_sea": [
+    {
+      "callsign": "CES9740",
+      "dtw_score": 593.1431190569649
+    },
+    {
+      "callsign": "TAM3572",
+      "dtw_score": 586.1903429236305
+    },
+    {
+      "callsign": "CES2819",
+      "dtw_score": 585.7942962526547
+    },
+    {
+      "callsign": "ELY2431",
+      "dtw_score": 572.9898939575638
+    },
+    {
+      "callsign": "CCA4164",
+      "dtw_score": 552.0103949389496
+    }
+  ],
+  "mco_atl": [
+    {
+      "callsign": "AXM1727",
+      "dtw_score": 187.3753828924748
+    },
+    {
+      "callsign": "DLH4M",
+      "dtw_score": 183.82715799928474
+    },
+    {
+      "callsign": "SWR119N",
+      "dtw_score": 181.4968072672258
+    },
+    {
+      "callsign": "DLH2M",
+      "dtw_score": 173.83954154129987
+    },
+    {
+      "callsign": "AIC248",
+      "dtw_score": 170.2940064112014
+    }
+  ],
+  "lax_atl": [
+    {
+      "callsign": "AFR1752",
+      "dtw_score": 336.17177557689575
+    },
+    {
+      "callsign": "AFL2551",
+      "dtw_score": 334.12280359485754
+    },
+    {
+      "callsign": "LOT97",
+      "dtw_score": 319.84874122460485
+    },
+    {
+      "callsign": "AFL2695",
+      "dtw_score": 309.6512829020409
+    },
+    {
+      "callsign": "KLM907",
+      "dtw_score": 306.71105438674016
+    }
+  ]
+}
