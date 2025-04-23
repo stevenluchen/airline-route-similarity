@@ -41,7 +41,7 @@ For 10 unique, significant U.S. trunk routes, we compute an aggregate vector, wh
 
 ## Results & Limitations
 
-For a more detailed summary of methodology, findings, and interpretation, see report.pdf
+For a more detailed summary of methodology, findings, and interpretation, see [report.pdf](https://github.com/stevenluchen/airline-route-similarity/blob/main/report.pdf).
 
 | U.S. Route | Top Analog(s)                                       | Notes                                                                |
 |------------|-----------------------------------------------------|----------------------------------------------------------------------|
