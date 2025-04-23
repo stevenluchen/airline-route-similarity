@@ -52,12 +52,10 @@ For a more detailed summary of methodology, findings, and interpretation, see re
 | ORD-LGA    | Amsterdam-Warsaw, Prague-Kyiv, Edinburgh-Copenhagen | Dense intra-European trunk routes with complex ATC routing           |
 | LAX-JFK    | San Francisco-Toronto                               | Long-haul eastbound routes with steady cruise and gradual descent    |
 | IAH-ORD    | Toulouse-Brussels, Hobart-Sydney, Amsterdam-Ålesund | Lower-visibility pairings with consistent medium-haul structure      |
-| SFO-SEA    | Tel Aviv-Larnaca                                    | Weak match; structurally short-haul but behaviorally inconsistent    |
 | ATL-MCO    | Kathmandu-Kolkata, Hamburg-Munich, Zürich-Florence  | Terrain-constrained regional flights with sharp altitude transitions |
 | LAX-ATL    | Amsterdam-Moscow, Paris-Kyiv                        | Long-haul transcontinental analogs with deep cruise phase            |
 
 * All comparisons are based on **shape and behavior**, not geography or scheduled times.
 * DTW captures **trajectory similarity**, which doesn't always align with traditional airline route maps.
-* SFO-SEA analogs were very weak matches due to trunk vector noise. I believe this arises since SFO and SEA are extremely close in latitude which causes the displacement in that direction to be always very close to zero. See report for more.
 * LAX-JFK often matched SFO-YYZ due to structural similarity, not distance or direction.
 * Flights that pass through Chinese airspace suffer from systemic telemetry unreliability, such as sparse coverage and erratic motion patterns, so they were excluded from results on an ad hoc basis. [Here's](https://www.youtube.com/watch?v=sJPxjVASlBc) an interesting YouTube video on it.
